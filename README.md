@@ -12,6 +12,7 @@
     
     Notes
     - Common Language Runtime (CLR) Peridically Scan Through memory and clean garbage  & free memory 
+    - Can Use Static Members of a class without creating an instance
 - [ ] 3. Assemblies
 - [ ] 4. Types
 - [ ] 5. Methods, Fields, Events, and Properties
