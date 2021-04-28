@@ -2,7 +2,7 @@
 ### [01.C# Fundamentals with Visual Studio 2015](https://www.pluralsight.com/courses/csharp-fundamentals-dev)
 - [ ] 1. An Introduction to C# and .NET
    
-    new Stuff Learned how to Compile Code With cmd and notepad
+    New Stuff Learned how to Compile Code With cmd and notepad
     - Open Cmd 
     - cd to folder and create C# command ==>(notepad Name.cs)
     - c:\Windows\Microsoft.NET\Framework\"ur version" csc "Text Name "
