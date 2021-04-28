@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Fundamentals_but_vs_2019
+namespace Grades
 {
     class GradeStatistics
     {
