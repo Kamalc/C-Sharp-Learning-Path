@@ -1,5 +1,5 @@
 # C# Check List
-### [01.C# Fundamentals with Visual Studio 2015](https://www.pluralsight.com/courses/csharp-fundamentals-dev)
+### [01.C# Fundamentals](https://www.pluralsight.com/courses/csharp-fundamentals-dev)
 - [x] 1. An Introduction to C# and .NET
    
       How to Compile Code With cmd and notepad
