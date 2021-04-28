@@ -18,6 +18,8 @@
     - contain metadata about all types inside
     Global Assembly Cashe 
     - A Central Location to store assemblies for machine 
+    - the internal class can get accessed from any other class in the same project 
+    - the public class can get accessed from another project or same
 - [ ] 4. Types
 - [ ] 5. Methods, Fields, Events, and Properties
 - [ ] 6. Control Flow
