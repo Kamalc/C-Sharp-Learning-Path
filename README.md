@@ -14,6 +14,10 @@
     - Common Language Runtime (CLR) Peridically Scan Through memory and clean garbage  & free memory 
     - Can Use Static Members of a class without creating an instance
 - [ ] 3. Assemblies
+    Assembliers are .exe or .dll files
+    - contain metadata about all types inside
+    Global Assembly Cashe 
+    - A Central Location to store assemblies for machine 
 - [ ] 4. Types
 - [ ] 5. Methods, Fields, Events, and Properties
 - [ ] 6. Control Flow
