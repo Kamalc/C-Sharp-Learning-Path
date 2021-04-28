@@ -6,7 +6,9 @@ namespace Fundamentals_but_vs_2019
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Your Name:");
+            string name = Console.ReadLine();
+            Console.WriteLine("Hello World!" + name);
         }
     }
 }
