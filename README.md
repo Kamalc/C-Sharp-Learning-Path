@@ -1,6 +1,13 @@
 # C# Check List
 ### [01.C# Fundamentals with Visual Studio 2015](https://www.pluralsight.com/courses/csharp-fundamentals-dev)
 - [ ] 1. An Introduction to C# and .NET
+   
+    new Suff Learned  how to Compiler Code With Text Code 
+    - Open Cmd 
+    - cd to folder and create C# command ==>(notepad Name.cs)
+    - c:\Windows\Microsoft.NET\Framework\"ur version" csc "Text Name "
+    - Run it Name.cs
+   
 - [ ] 2. Classes and Objects
 - [ ] 3. Assemblies
 - [ ] 4. Types
