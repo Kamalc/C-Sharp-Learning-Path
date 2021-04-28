@@ -1,14 +1,17 @@
 # C# Check List
 ### [01.C# Fundamentals with Visual Studio 2015](https://www.pluralsight.com/courses/csharp-fundamentals-dev)
-- [ ] 1. An Introduction to C# and .NET
+- [x] 1. An Introduction to C# and .NET
    
-    New Stuff Learned how to Compile Code With cmd and notepad
+      How to Compile Code With cmd and notepad
     - Open Cmd 
     - cd to folder and create C# command ==>(notepad Name.cs)
     - c:\Windows\Microsoft.NET\Framework\"ur version" csc "Text Name "
     - Run it Name.cs
    
-- [ ] 2. Classes and Objects
+- [x] 2. Classes and Objects
+    
+    Notes
+    - Common Language Runtime (CLR) Peridically Scan Through memory and clean garbage  & free memory 
 - [ ] 3. Assemblies
 - [ ] 4. Types
 - [ ] 5. Methods, Fields, Events, and Properties
